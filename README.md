@@ -9,7 +9,7 @@ Previously, I completed my BA in Economics at NYU Abu Dhabi with a Minor in Psyc
 ### ...what am I? 🤔
 I'm originally from Denmark, but have lived and studied in Denmark, Costa Rica, the UAE, and, now, the US! When I'm not coding or analyzing data, you'll find me playing chess, watching musicals, or doing the NYT minigames (religiously!).
 
-**Fun fact:** I can recite 100 digits of pi! (used to be 250 before I suddenly had work and university studies to tend to)
+**Fun fact:** I can recite 100 digits of pi! (used to be 250 before I discovered hobbies)
 
 ### ...what ✨can✨ I do?
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
