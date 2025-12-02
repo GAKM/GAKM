@@ -4,7 +4,7 @@
 I'm Gabriel, a quantitative researcher excited about using data to solve real-world problems. I am currently pursuing my MA in Quantitative Methods in the Social Sciences at Columbia University, where I am expanding my toolset to strenghthen my research skills! Examples include machine learning, advanced statistical analysis, and data management.
 
 ### ...what have I done?
-Previously, I completed my BA in Economics at NYU Abu Dhabi with a Minor in Psychology. Subsequently, I worked two years as a predoc in behavioral economics at NYUAD, designing survey experiments, .do files, web scraping scripts, and more.
+Previously, I completed my BA in Economics at NYU Abu Dhabi with a Minor in Psychology. Subsequently, I worked two years as a predoc in behavioral economics at NYUAD, designing survey experiments, .do files, data collection scripts, and more. My programming projects have included oTree experiments, Selenium web-scraping scripts, and automated document filling/processing pipelines.
 
 ### ...what am I?
 I'm originally from Denmark, but have lived and studied in Denmark, Costa Rica, the UAE, and, now, the US! When I'm not coding or analyzing data, you'll find me playing chess, watching musicals, or doing the NYT minigames (religiously!).
