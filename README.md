@@ -8,7 +8,7 @@ Previously, I completed my BA in Economics at NYU Abu Dhabi with a Minor in Psyc
 
 ### ...what am I?
 I'm originally from Denmark, but have lived and studied in Denmark, Costa Rica, the UAE, and, now, the US! When I'm not coding or analyzing data, you'll find me playing chess, watching musicals, or doing the NYT minigames (religiously!).
-
+Fun fact: I can recite 100 digits of pi! (used to be 250 before I suddenly had work and university studies to tend to)
 
 <!--
 **GAKM/GAKM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
